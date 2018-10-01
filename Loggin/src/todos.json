@@ -1,0 +1,22 @@
+{
+  "todos":[
+    {
+      "title":"Actividad 1",
+      "responsable": "Scrum Master",
+      "description":"Realizar scrum dayli meeting",
+      "priority":"alta"
+    },
+    {
+      "title":"Actividad 2",
+      "responsable": "Product Owner",
+      "description":"Realizar historia de usuario",
+      "priority":"media"
+    },
+    {
+      "title":"Actividad 3",
+      "responsable": "Product Owner",
+      "description":"Realizar historia de usuario2",
+      "priority":"baja"
+    }
+  ]
+}
